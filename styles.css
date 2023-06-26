@@ -4,6 +4,7 @@ body{
 }
 a{
 	display:flex;
+	text-decoration:none
 }
 fieldset{
 	background-color:white;
